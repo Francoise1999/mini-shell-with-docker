@@ -1,0 +1,4 @@
+*.o
+minishell_plus
+log.txt
+.git
